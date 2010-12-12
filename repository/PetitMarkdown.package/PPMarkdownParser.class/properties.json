@@ -1,0 +1,14 @@
+{
+	"category" : "PetitMarkdown-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PPMarkdownParser",
+	"pools" : [
+		 ],
+	"super" : "PPMarkdownGrammar",
+	"type" : "normal" }

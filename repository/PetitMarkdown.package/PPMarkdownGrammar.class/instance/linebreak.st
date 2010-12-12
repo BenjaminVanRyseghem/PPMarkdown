@@ -1,0 +1,3 @@
+token
+linebreak
+	^ '  ' asParser , normalEndline

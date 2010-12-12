@@ -1,0 +1,3 @@
+token
+space
+	^ #blank asParser

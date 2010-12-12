@@ -1,0 +1,3 @@
+grammar
+document
+	^ block star
