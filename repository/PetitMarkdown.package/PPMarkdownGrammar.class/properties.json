@@ -62,7 +62,8 @@
 		"underscoreOrStarLine",
 		"symbol",
 		"withUnderscores",
-		"text" ],
+		"text",
+		"verbatim" ],
 	"name" : "PPMarkdownGrammar",
 	"pools" : [
 		 ],

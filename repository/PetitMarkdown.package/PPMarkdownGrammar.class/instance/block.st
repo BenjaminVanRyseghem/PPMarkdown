@@ -3,7 +3,8 @@ block
 	^ blankLine star , (
 		"blockQuote / verbatim
 		/ note / reference
-		/ "horizontalRule
+		/ "
+		verbatim / horizontalRule
 		/ heading
 		/ orderedList / bulletList
 		"/ htmlBlock / styleBlock"
