@@ -1,4 +1,5 @@
 as yet unclassified
 underscoreOrStarLine
-	underscoreOrStarLine ==> [ :nodes|
-		^ PPMarkdownRule new]
+	^ super underscoreOrStarLine ==> [ :nodes|
+		self halt.
+		PPMarkdownRule new]

@@ -1,4 +1,4 @@
 as yet unclassified
 inlines
-	^ super inlines ==> [ :nodes | 
+	^ super inlines ==> [ :nodes |
 		self mergeInlines: nodes first].

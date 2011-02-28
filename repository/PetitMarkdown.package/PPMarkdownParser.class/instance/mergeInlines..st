@@ -1,10 +1,18 @@
 as yet unclassified
 mergeInlines: nodes
 	| elements inlineList |
-	elements := nodes collect: [:each| each second].
+	space := PPMarkdownText new text: ' '.
+	elements := nodes collect: [:each| 
+		each first 
+			ifNil: [ each second]
+			ifNotNil: [ :break|
+				(break isKindOf: PPMarkdownLinebreak)
+					ifTrue: [break]
+					ifFalse: [space]]].
+	
 	inlineList := OrderedCollection new.
 	elements do: [:each|
-		(inlineList isEmpty not and: [inlineList first isText and: [ each isText]])
-			ifTrue: [ inlineList at: 1 put: inlineList first , each ]
-			ifFalse: [ inlineList addFirst: each]].
+		(inlineList isEmpty not and: [inlineList last isText and: [ each isText]])
+			ifTrue: [ inlineList at: inlineList size put: inlineList last , each ]
+			ifFalse: [ inlineList add: each]].
 	^ inlineList
