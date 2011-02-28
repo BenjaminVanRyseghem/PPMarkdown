@@ -1,3 +1,3 @@
 as yet unclassified
-isCode
-	^ true
+isEmphasis
+	^ false

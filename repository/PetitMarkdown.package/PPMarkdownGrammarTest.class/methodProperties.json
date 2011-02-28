@@ -20,11 +20,13 @@
 		"testEntity1" : "DamienPollet 12/12/2010 04:50",
 		"testEntity2" : "DamienPollet 12/12/2010 04:51",
 		"testEntity3" : "DamienPollet 12/12/2010 04:51",
+		"testEnumerator" : "CamilloBruni 2/28/2011 12:13",
 		"testEscapedCharacters" : "DamienPollet 12/12/2010 04:53",
 		"testHeadingAtx1" : "CamilloBruni 2/28/2011 10:45",
 		"testHeadingAtx2" : "CamilloBruni 2/28/2011 10:46",
 		"testHeadingAtx3" : "CamilloBruni 2/28/2011 10:46",
-		"testHeadingSetext" : "CamilloBruni 2/26/2011 20:50",
+		"testHeadingSetext1" : "CamilloBruni 2/28/2011 13:19",
+		"testHeadingSetext2" : "CamilloBruni 2/28/2011 13:20",
 		"testHorizontalRule" : "DamienPollet 12/12/2010 04:55",
 		"testInlineLinkEmpty" : "DamienPollet 12/12/2010 04:56",
 		"testInlineLinkJustUrl" : "CamilloBruni 2/28/2011 01:54",
@@ -50,4 +52,5 @@
 		"testReferenceLinkLabelOnly" : "DamienPollet 12/12/2010 05:02",
 		"testReferenceLinkMultiline" : "DamienPollet 12/12/2010 05:03",
 		"testStrong1" : "DamienPollet 12/12/2010 22:58",
-		"testStrong2" : "DamienPollet 12/12/2010 22:59" } }
+		"testStrong2" : "DamienPollet 12/12/2010 22:59",
+		"testUnderscoreLine" : "CamilloBruni 2/28/2011 13:08" } }

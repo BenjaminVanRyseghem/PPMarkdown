@@ -1,9 +1,11 @@
 as yet unclassified
 setextHeading
-	^ super setextHeading ==> [ :nodes | | type level |
-		type := nodes third value first.
-		level := #($= $-) indexOf: type. "might be 0..."
+	^ super setextHeading ==> [ :nodes | |titleInlines last level|
+		titleInlines := self mergeInlines: nodes first.
+		level :=  nodes third value first = $=
+			ifTrue: [ 1 ]
+			ifFalse: [ 2].
 		PPMarkdownHeading new
-			title: nodes first;
 			level: level;
-			yourself ]
+			title: titleInlines;
+			yourself]

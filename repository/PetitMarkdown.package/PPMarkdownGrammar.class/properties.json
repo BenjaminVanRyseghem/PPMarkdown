@@ -60,7 +60,9 @@
 		"underlinedStrong",
 		"underscoreLine",
 		"underscoreOrStarLine",
-		"symbol" ],
+		"symbol",
+		"withUnderscores",
+		"text" ],
 	"name" : "PPMarkdownGrammar",
 	"pools" : [
 		 ],

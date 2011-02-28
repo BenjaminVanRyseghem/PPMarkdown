@@ -5,5 +5,5 @@ atxHeading
 	^ atxStart , spaces ,
 		"(newline not , ($# asParser star trim , newline) not , inline) plus flatten,"
 		((hash , newline) not , inline) plus,
-		hash optional ,
+		spaces optional, hash optional ,
 		newline
