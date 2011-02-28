@@ -4,8 +4,19 @@
 	"instance" : {
 		"parserClass" : "DamienPollet 12/12/2010 02:28",
 		"testBulletList" : "DamienPollet 12/12/2010 02:38",
-		"testHeadingAtx" : "DamienPollet 12/12/2010 22:28",
+		"testCode" : "CamilloBruni 2/28/2011 01:11",
+		"testCode2" : "CamilloBruni 2/28/2011 01:11",
+		"testCode3" : "CamilloBruni 2/28/2011 01:11",
+		"testHeadingAtx1" : "CamilloBruni 2/28/2011 10:48",
+		"testHeadingAtx2" : "CamilloBruni 2/28/2011 10:49",
+		"testHeadingAtx3" : "CamilloBruni 2/28/2011 10:49",
 		"testHeadingSetext" : "DamienPollet 12/12/2010 22:27",
+		"testInlineLinkEmpty" : "CamilloBruni 2/28/2011 01:52",
+		"testInlineLinkJustUrl" : "CamilloBruni 2/28/2011 01:53",
+		"testInlineLinkSpacing1" : "CamilloBruni 2/28/2011 01:44",
+		"testInlineLinkSpacing2" : "CamilloBruni 2/28/2011 01:59",
+		"testInlineLinkSpacing3" : "CamilloBruni 2/28/2011 02:00",
 		"testListItemSimple1" : "DamienPollet 12/12/2010 21:07",
 		"testOrderedList" : "DamienPollet 12/12/2010 20:04",
-		"testParagraph" : "DamienPollet 12/12/2010 02:25" } }
+		"testParagraph" : "CamilloBruni 2/28/2011 01:16",
+		"testParagraph2" : "CamilloBruni 2/28/2011 01:14" } }

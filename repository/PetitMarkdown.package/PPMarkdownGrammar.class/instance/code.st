@@ -1,12 +1,9 @@
 grammar
 code
-	| tick notick ticks |
+	| tick doubleTick |
 	tick := $` asParser.
-	notick := tick not.
-	ticks := tick times: 1.
-	^ ticks , spaces , (
-			(notick , nonSpaceCharacter) plus /
-			ticks not , tick plus /
-			(spaces , ticks) not , (space / (newline , blankLine not) )
-		) plus , spaces , ticks
+	doubleTick := '``' asParser.
+		^ (doubleTick , spaces, doubleTick negate plus flatten, spaces, doubleTick) /
+		(tick , spaces, tick negate plus flatten, spaces, tick).
+		
 	

@@ -4,4 +4,4 @@ entity
 	hexEntity := '&#' asParser , $x asParser caseInsensitive , #hex asParser plus , $; asParser.
 	decEntity := '&#' asParser , #digit asParser plus , $; asParser.
 	charEntity := $& asParser , #word asParser plus , $; asParser.
-	^ hexEntity / decEntity / charEntity
+	^ (hexEntity / decEntity / charEntity) flatten

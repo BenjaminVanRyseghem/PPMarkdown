@@ -4,4 +4,10 @@ testHeadingSetext
 		parse: 'Hello, this is a setext-style title
 =====
 '
-		rule: #heading
+		rule: #heading.
+		
+	self
+		parse: 'Hello, this is a setext-style title
+------
+'
+		rule: #heading2

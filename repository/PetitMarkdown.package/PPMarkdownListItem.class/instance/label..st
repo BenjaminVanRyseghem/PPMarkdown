@@ -1,3 +1,3 @@
 accessing
-label: aLabel
+label: aLabel 
 	label := aLabel

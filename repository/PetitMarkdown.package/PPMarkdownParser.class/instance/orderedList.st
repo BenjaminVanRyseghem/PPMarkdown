@@ -1,6 +1,6 @@
 grammar-block
 orderedList
-	^ super orderedList ==> [ :nodes |
+	^ super bulletList ==> [ :nodes |
 		PPMarkdownOrderedList new
 			items: nodes second;
 			yourself ]

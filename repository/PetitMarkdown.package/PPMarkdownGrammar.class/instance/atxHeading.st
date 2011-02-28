@@ -1,7 +1,9 @@
 grammar-secondary
 atxHeading
+	|hash|
+	hash := $# asParser star.
 	^ atxStart , spaces ,
 		"(newline not , ($# asParser star trim , newline) not , inline) plus flatten,"
-		(($# asParser star trim , newline) not , inline) plus flatten,
-		$# asParser star trim optional ,
+		((hash , newline) not , inline) plus,
+		hash optional ,
 		newline
