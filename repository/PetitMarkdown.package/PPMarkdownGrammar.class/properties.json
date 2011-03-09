@@ -63,7 +63,8 @@
 		"symbol",
 		"withUnderscores",
 		"text",
-		"verbatim" ],
+		"verbatim",
+		"url" ],
 	"name" : "PPMarkdownGrammar",
 	"pools" : [
 		 ],
