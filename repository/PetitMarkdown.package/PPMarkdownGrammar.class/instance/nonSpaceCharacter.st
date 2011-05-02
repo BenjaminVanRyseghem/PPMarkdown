@@ -1,3 +1,3 @@
 token
 nonSpaceCharacter
-	^ space not , newline not , #any asParser
+	^ space not , #newline asParser not , #any asParser

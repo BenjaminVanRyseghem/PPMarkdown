@@ -10,6 +10,7 @@
 		"atxStart",
 		"blankLine",
 		"block",
+		"blockQuote",
 		"bullet",
 		"bulletList",
 		"code",
@@ -64,7 +65,8 @@
 		"withUnderscores",
 		"text",
 		"verbatim",
-		"url" ],
+		"url",
+		"listItemTight" ],
 	"name" : "PPMarkdownGrammar",
 	"pools" : [
 		 ],

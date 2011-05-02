@@ -1,0 +1,22 @@
+{
+	"category" : "PetitMarkdown-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"blank",
+		"blockEnd",
+		"document",
+		"headerAtx",
+		"headerSetext",
+		"line",
+		"lineEnd",
+		"paragraph",
+		"verticalBlank" ],
+	"name" : "PPMarkdownBlockGrammar",
+	"pools" : [
+		 ],
+	"super" : "PPCompositeParser",
+	"type" : "normal" }

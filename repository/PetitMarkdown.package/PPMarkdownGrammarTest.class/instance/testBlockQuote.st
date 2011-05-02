@@ -5,4 +5,4 @@ testBlockQuote
 > bar
 > baz
 '
-		rule: #quote
+		rule: #blockQuote

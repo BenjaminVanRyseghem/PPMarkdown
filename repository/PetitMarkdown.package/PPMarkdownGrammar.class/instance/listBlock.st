@@ -1,3 +1,3 @@
 grammar-secondary
 listBlock
-	^ (line , listBlockLine star) flatten
+	^ (blankLine not, line , listBlockLine star) flatten

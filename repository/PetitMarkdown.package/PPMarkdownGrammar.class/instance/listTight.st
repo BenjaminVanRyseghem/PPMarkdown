@@ -1,5 +1,5 @@
 grammar
 listTight
-	^ listItem plus
+	^ listItemTight plus
 		, blankLine star
 		, (bullet / enumerator) not
