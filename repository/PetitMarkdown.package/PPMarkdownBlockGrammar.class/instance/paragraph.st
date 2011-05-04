@@ -1,3 +1,3 @@
 grammar
 paragraph
-	^ line separatedBy: lineEnd
+	^ lineNonBlank separatedBy: lineEnd

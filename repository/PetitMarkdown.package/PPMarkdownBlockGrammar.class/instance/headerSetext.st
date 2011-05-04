@@ -1,4 +1,4 @@
 grammar
 headerSetext
-	^ line , lineEnd ,
-		($= asParser / $- asParser) star
+	^ lineNonBlank , lineEnd ,
+		($= asParser / $- asParser) plus

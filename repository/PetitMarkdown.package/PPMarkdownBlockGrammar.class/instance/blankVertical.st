@@ -1,3 +1,3 @@
 grammar-internal
-verticalBlank
+blankVertical
 	^ lineEnd / blank

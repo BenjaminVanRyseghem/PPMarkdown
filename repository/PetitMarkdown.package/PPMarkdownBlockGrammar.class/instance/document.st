@@ -1,4 +1,4 @@
 grammar
 document
-	^ (paragraph separatedBy: blockEnd) ,
-		verticalBlank star
+	^ blankVertical star ,
+		block delimitedBy: blankVertical star
