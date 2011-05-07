@@ -1,3 +1,3 @@
 grammar-internal
 blankVertical
-	^ lineEnd / blank
+	^ blank star, lineEnd

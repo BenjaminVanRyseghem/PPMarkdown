@@ -4,6 +4,7 @@ testBlockquoteIndents
 	self parse: ' > A normal blockquote.' rule: #blockquote.
 	self parse: '  > A normal blockquote.' rule: #blockquote.
 	self parse: '   > A normal blockquote.' rule: #blockquote.
+	
 	self parse: '    > A codeblock' rule: #codeBlock.
 
 	self

@@ -1,3 +1,3 @@
 grammar-internal
 line
-	^ lineBlank / lineNonBlank
+	^ lineNonBlank / lineBlank

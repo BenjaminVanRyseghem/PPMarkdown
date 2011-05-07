@@ -4,9 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "DamienPollet 5/4/2011 16:01",
 	"instvars" : [
 		"blank",
+		"blankNonIndent",
 		"blankVertical",
 		"block",
 		"blockEnd",
