@@ -2,10 +2,7 @@ grammar-block
 link
 	^ super link ==> [ :nodes |
 		nodes size = 4 
-			ifTrue: [
-				PPMarkdownText new 
-					text: nodes second;
-					yourself]
+			ifTrue: [ PPMarkdownText with: nodes second ]
 			ifFalse: [
 				PPMarkdownLink new
 					text: nodes first second;

@@ -1,3 +1,3 @@
 grammar-secondary
 entity
-	^ super entity ==> [ :nodes | self halt. ]
+	^ super entity ==> [ :nodes | PPMarkdownEntity with: nodes ]

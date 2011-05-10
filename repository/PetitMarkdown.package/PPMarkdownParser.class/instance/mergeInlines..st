@@ -1,11 +1,12 @@
 as yet unclassified
 mergeInlines: nodes
-	| elements inlineList |
-	space := PPMarkdownText new text: ' '.
+	| elements inlineList break|
+	space := PPMarkdownText with: ' '.
 	elements := nodes collect: [:each| 
-		each first 
-			ifNil: [ each second]
-			ifNotNil: [ :break|
+		(each first isNil and: [each second isArray not])
+			ifTrue: [ each second]
+			ifFalse: [ 
+				break := each first.
 				(break isKindOf: PPMarkdownLinebreak)
 					ifTrue: [break]
 					ifFalse: [space]]].

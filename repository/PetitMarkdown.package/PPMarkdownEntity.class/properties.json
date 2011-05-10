@@ -1,0 +1,14 @@
+{
+	"category" : "PetitMarkdown-Nodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PPMarkdownEntity",
+	"pools" : [
+		 ],
+	"super" : "PPMarkdownSpanNode",
+	"type" : "normal" }
