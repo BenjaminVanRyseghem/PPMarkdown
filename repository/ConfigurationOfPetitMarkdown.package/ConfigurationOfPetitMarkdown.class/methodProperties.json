@@ -18,8 +18,10 @@
 		"updateToLatestPackageVersions:" : "CamilloBruni 1/24/2012 16:32",
 		"validate" : "CamilloBruni 1/24/2012 16:32" },
 	"instance" : {
+		"baseline01:" : "CamilloBruni 1/24/2012 17:13",
 		"bleedingEdge" : "CamilloBruni 1/24/2012 16:32",
 		"defaultBleedingEdgeVersion" : "CamilloBruni 1/24/2012 16:32",
 		"project" : "CamilloBruni 1/24/2012 16:32",
 		"project:" : "CamilloBruni 1/24/2012 16:32",
+		"version01:" : "CamilloBruni 1/24/2012 17:13",
 		"versionDoesNotExistError:" : "CamilloBruni 1/24/2012 16:32" } }
