@@ -8,6 +8,6 @@ version01: spec
 		spec author: 'CamilloBruni'.
 		spec timestamp: '1/24/2012 16:43'.
 		spec 
-			package: 'PetitMarkdown-Core' with: 'PetitParser-lr.208';
-			package: 'PetitMarkdown-Nodes' with: 'PetitTests-TudorGirba.24';
-			package: 'PetitAnalyzer-Tests' with: 'PetitAnalyzer-lr.31'].
+			package: 'PetitMarkdown-Core' with: 'PetitMarkdown-Core-CamilloBruni.1';
+			package: 'PetitMarkdown-Nodes' with: 'PetitMarkdown-Nodes-CamilloBruni.1';
+			package: 'PetitAnalyzer-Tests' with: 'PetitMarkdown-Tests-CamilloBruni.1'].
