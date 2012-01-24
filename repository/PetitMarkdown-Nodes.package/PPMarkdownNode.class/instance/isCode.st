@@ -1,0 +1,3 @@
+testing
+isCode
+	^ false
