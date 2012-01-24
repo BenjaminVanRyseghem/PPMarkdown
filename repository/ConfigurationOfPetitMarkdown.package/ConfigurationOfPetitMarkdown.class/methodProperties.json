@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"DevelopmentProcess" : "CamilloBruni 1/24/2012 16:32",
+		"bootstrapPackage:from:" : "CamilloBruni 1/24/2012 16:32",
+		"compareVersions" : "CamilloBruni 1/24/2012 16:32",
+		"createNewBaselineVersion" : "CamilloBruni 1/24/2012 16:32",
+		"createNewDevelopmentVersion" : "CamilloBruni 1/24/2012 16:32",
+		"ensureMetacello" : "CamilloBruni 1/24/2012 16:32",
+		"isMetacelloConfig" : "CamilloBruni 1/24/2012 16:32",
+		"load" : "CamilloBruni 1/24/2012 16:32",
+		"loadBleedingEdge" : "CamilloBruni 1/24/2012 16:32",
+		"loadDevelopment" : "CamilloBruni 1/24/2012 16:32",
+		"project" : "CamilloBruni 1/24/2012 16:32",
+		"releaseDevelopmentVersion:" : "CamilloBruni 1/24/2012 16:32",
+		"saveConfiguration:" : "CamilloBruni 1/24/2012 16:32",
+		"saveModifiedPackagesAndConfiguration:" : "CamilloBruni 1/24/2012 16:32",
+		"unloadMetacello" : "CamilloBruni 1/24/2012 16:32",
+		"updateToLatestPackageVersions:" : "CamilloBruni 1/24/2012 16:32",
+		"validate" : "CamilloBruni 1/24/2012 16:32" },
+	"instance" : {
+		"bleedingEdge" : "CamilloBruni 1/24/2012 16:32",
+		"defaultBleedingEdgeVersion" : "CamilloBruni 1/24/2012 16:32",
+		"project" : "CamilloBruni 1/24/2012 16:32",
+		"project:" : "CamilloBruni 1/24/2012 16:32",
+		"versionDoesNotExistError:" : "CamilloBruni 1/24/2012 16:32" } }

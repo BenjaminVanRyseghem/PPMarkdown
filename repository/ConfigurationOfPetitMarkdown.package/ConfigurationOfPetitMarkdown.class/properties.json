@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfPetitMarkdown",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfPetitMarkdown",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
