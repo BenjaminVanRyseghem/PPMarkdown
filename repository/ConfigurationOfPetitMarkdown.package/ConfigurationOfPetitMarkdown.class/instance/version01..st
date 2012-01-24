@@ -10,4 +10,4 @@ version01: spec
 		spec 
 			package: 'PetitMarkdown-Core' with: 'PetitMarkdown-Core-CamilloBruni.1';
 			package: 'PetitMarkdown-Nodes' with: 'PetitMarkdown-Nodes-CamilloBruni.1';
-			package: 'PetitAnalyzer-Tests' with: 'PetitMarkdown-Tests-CamilloBruni.1'].
+			package: 'PetitMarkdown-Tests' with: 'PetitMarkdown-Tests-CamilloBruni.1'].

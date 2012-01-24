@@ -8,7 +8,6 @@
 		"ensureMetacello" : "CamilloBruni 1/24/2012 16:32",
 		"isMetacelloConfig" : "CamilloBruni 1/24/2012 16:32",
 		"load" : "CamilloBruni 1/24/2012 16:32",
-		"loadBleedingEdge" : "CamilloBruni 1/24/2012 16:32",
 		"loadDevelopment" : "CamilloBruni 1/24/2012 16:32",
 		"project" : "CamilloBruni 1/24/2012 16:32",
 		"releaseDevelopmentVersion:" : "CamilloBruni 1/24/2012 16:32",
@@ -18,10 +17,9 @@
 		"updateToLatestPackageVersions:" : "CamilloBruni 1/24/2012 16:32",
 		"validate" : "CamilloBruni 1/24/2012 16:32" },
 	"instance" : {
-		"baseline01:" : "CamilloBruni 1/24/2012 17:13",
-		"bleedingEdge" : "CamilloBruni 1/24/2012 16:32",
-		"defaultBleedingEdgeVersion" : "CamilloBruni 1/24/2012 16:32",
+		"baseline01:" : "CamilloBruni 1/24/2012 17:24",
+		"development:" : "CamilloBruni 1/24/2012 17:21",
 		"project" : "CamilloBruni 1/24/2012 16:32",
 		"project:" : "CamilloBruni 1/24/2012 16:32",
-		"version01:" : "CamilloBruni 1/24/2012 17:17",
+		"version01:" : "CamilloBruni 1/24/2012 17:25",
 		"versionDoesNotExistError:" : "CamilloBruni 1/24/2012 16:32" } }

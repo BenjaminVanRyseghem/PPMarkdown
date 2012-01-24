@@ -9,7 +9,7 @@ baseline01: spec
 		spec project: 'PetitParser' with: [
 			spec
 				className: 'ConfigurationOfPetitParser';
-				version: #minimal;
+				version: 'minimal';
 				repository: 'http://source.lukas-renggli.ch/petit' ].
 		spec 
 			package: 'PetitMarkdown-Core' with: [
