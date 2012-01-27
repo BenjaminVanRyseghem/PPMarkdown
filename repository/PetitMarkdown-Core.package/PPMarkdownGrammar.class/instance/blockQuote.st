@@ -9,5 +9,5 @@ blockQuote
 continuing on the next line
 	"
 	"TODO"
-	
-	indent := $> asParser.
+	| anIndent |
+	anIndent := $> asParser.
