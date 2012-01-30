@@ -4,10 +4,11 @@ version02: spec
 
 	spec for: #'common' do: [
 		spec blessing: #'development'.
-		spec description: 'fixed link parsing'.
+		spec description: 'fixed link parsing
+changed title to inlines on PPMarkdownHeading'.
 		spec author: 'CamilloBruni'.
-		spec timestamp: '1/27/2012 17:56'.
+		spec timestamp: '1/30/2012 14:41'.
 		spec 
-			package: 'PetitMarkdown-Core' with: 'PetitMarkdown-Core-CamilloBruni.3';
-			package: 'PetitMarkdown-Nodes' with: 'PetitMarkdown-Nodes-CamilloBruni.1';
-			package: 'PetitMarkdown-Tests' with: 'PetitMarkdown-Tests-CamilloBruni.1'. ].
+			package: 'PetitMarkdown-Core' with: 'PetitMarkdown-Core-CamilloBruni.4';
+			package: 'PetitMarkdown-Nodes' with: 'PetitMarkdown-Nodes-CamilloBruni.2';
+			package: 'PetitMarkdown-Tests' with: 'PetitMarkdown-Tests-CamilloBruni.2'. ].
