@@ -7,10 +7,11 @@ version02: spec
 		spec description: 'fixed link parsing
 changed title to inlines on PPMarkdownHeading
 fixed ending paragraph parsing
-incrementally fixing list parsing'.
+incrementally fixing list parsing
+removed halt'.
 		spec author: 'CamilloBruni'.
-		spec timestamp: '1/30/2012 19:01'.
+		spec timestamp: '1/30/2012 19:10'.
 		spec 
-			package: 'PetitMarkdown-Core' with: 'PetitMarkdown-Core-CamilloBruni.6';
+			package: 'PetitMarkdown-Core' with: 'PetitMarkdown-Core-CamilloBruni.7';
 			package: 'PetitMarkdown-Nodes' with: 'PetitMarkdown-Nodes-CamilloBruni.3';
 			package: 'PetitMarkdown-Tests' with: 'PetitMarkdown-Tests-CamilloBruni.4'. ].
