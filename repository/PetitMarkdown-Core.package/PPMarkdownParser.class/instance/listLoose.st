@@ -1,3 +1,3 @@
 grammar
 listLoose
-	^ super listLoose ==> [ :nodes | self halt. nodes collect: #first ]
+	^ super listLoose ==> [ :nodes | nodes collect: #first ]
