@@ -7,5 +7,5 @@ atxHeading
 				last text: last text withBlanksTrimmed].
 		PPMarkdownHeading new
 			level: nodes first size;
-			title: titleInlines;
+			inlines: titleInlines;
 			yourself]

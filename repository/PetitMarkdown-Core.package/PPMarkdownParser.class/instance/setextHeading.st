@@ -7,5 +7,5 @@ setextHeading
 			ifFalse: [ 2 ].
 		PPMarkdownHeading new
 			level: level;
-			title: titleInlines;
+			inlines: titleInlines;
 			yourself]
