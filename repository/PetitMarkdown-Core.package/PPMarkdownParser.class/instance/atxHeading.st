@@ -4,7 +4,7 @@ atxHeading
 		titleInlines := self mergeInlines: nodes third.
 		(nodes at: 5) ifNotEmpty: [ 
 				last := titleInlines last.
-				last text: last text withBlanksTrimmed].
+				last text: last text trimBoth].
 		PPMarkdownHeading new
 			level: nodes first size;
 			inlines: titleInlines;
