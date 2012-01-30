@@ -1,4 +1,3 @@
 grammar-block
 block
-	^ super block ==> [ :nodes |
-		nodes second]
+	^ super block ==> [ :nodes | nodes second]

@@ -30,7 +30,6 @@
 		"line",
 		"linebreak",
 		"link",
-		"listBlock",
 		"listBlockLine",
 		"listContinuationBlock",
 		"listItem",

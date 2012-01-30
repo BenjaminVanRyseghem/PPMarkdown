@@ -1,6 +1,5 @@
 grammar
 listItemTight
 	^ (bullet / enumerator)
-		, listBlock
-		, ( blankLine not, listContinuationBlock) star
-		, listContinuationBlock not
+		, line
+		, (newline, listBlockLine) star
