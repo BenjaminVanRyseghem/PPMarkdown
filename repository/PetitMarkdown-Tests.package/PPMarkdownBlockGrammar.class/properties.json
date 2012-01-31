@@ -6,9 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "PPMarkdownBlockGrammarTest",
+		"block",
+		"document" ],
+	"name" : "PPMarkdownBlockGrammar",
 	"pools" : [
 		 ],
-	"super" : "PPCompositeParserTest",
+	"super" : "PPCompositeParser",
 	"type" : "normal" }
