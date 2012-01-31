@@ -3,5 +3,8 @@
 		 },
 	"instance" : {
 		"parserClass" : "DamienPollet 1/31/2012 17:33",
-		"testSeveralBlocks" : "DamienPollet 1/31/2012 17:31",
-		"testSingleBlock" : "DamienPollet 1/31/2012 17:20" } }
+		"testEmpty" : "DamienPollet 1/31/2012 20:57",
+		"testJustWhitespace" : "DamienPollet 1/31/2012 20:57",
+		"testLine" : "DamienPollet 1/31/2012 18:10",
+		"testSeveralBlocks" : "DamienPollet 1/31/2012 19:58",
+		"testSingleBlock" : "DamienPollet 1/31/2012 20:57" } }

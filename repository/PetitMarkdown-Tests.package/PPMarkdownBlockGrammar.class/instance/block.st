@@ -1,3 +1,3 @@
 grammar
 block
-	^ #any asParser plus
+	^ line separatedBy: newline

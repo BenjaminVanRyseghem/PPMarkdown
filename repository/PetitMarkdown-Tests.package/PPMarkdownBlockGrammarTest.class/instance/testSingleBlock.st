@@ -1,8 +1,7 @@
-as yet unclassified
+tests
 testSingleBlock
 	self
 		parse: 'foo
 bar
-baz
-'
-		rule: #block
+baz'
+		rule: #document

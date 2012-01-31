@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testSeveralBlocks
 	self
 		parse: 'foo
@@ -6,5 +6,7 @@ testSeveralBlocks
 bar
 
 baz
+
+qux
 '
 		rule: #document
