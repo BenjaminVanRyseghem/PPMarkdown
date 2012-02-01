@@ -8,10 +8,13 @@ version02: spec
 changed title to inlines on PPMarkdownHeading
 fixed ending paragraph parsing
 incrementally fixing list parsing
-removed halt'.
-		spec author: 'CamilloBruni'.
-		spec timestamp: '1/30/2012 19:10'.
+removed halt
+Fix emph/strong nodes, start on block-level parser
+Progress on block parser
+WIP indented packages'.
+		spec author: 'DamienPollet'.
+		spec timestamp: '2/1/2012 16:17'.
 		spec 
-			package: 'PetitMarkdown-Core' with: 'PetitMarkdown-Core-CamilloBruni.7';
-			package: 'PetitMarkdown-Nodes' with: 'PetitMarkdown-Nodes-CamilloBruni.3';
-			package: 'PetitMarkdown-Tests' with: 'PetitMarkdown-Tests-CamilloBruni.4'. ].
+			package: 'PetitMarkdown-Core' with: 'PetitMarkdown-Core-DamienPollet.8';
+			package: 'PetitMarkdown-Nodes' with: 'PetitMarkdown-Nodes-DamienPollet.4';
+			package: 'PetitMarkdown-Tests' with: 'PetitMarkdown-Tests-DamienPollet.8'. ].
