@@ -3,6 +3,7 @@
 		 },
 	"instance" : {
 		"testEmpty" : "DamienPollet 1/31/2012 20:58",
+		"testFullyIndentedBlocks" : "DamienPollet 2/1/2012 16:15",
 		"testJustWhitespace" : "DamienPollet 1/31/2012 20:59",
 		"testSeveralBlocks" : "DamienPollet 2/1/2012 15:09",
 		"testSingleBlock" : "DamienPollet 2/1/2012 15:16" } }

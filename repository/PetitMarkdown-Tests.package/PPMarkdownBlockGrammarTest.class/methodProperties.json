@@ -4,6 +4,7 @@
 	"instance" : {
 		"parserClass" : "DamienPollet 1/31/2012 17:33",
 		"testEmpty" : "DamienPollet 1/31/2012 20:57",
+		"testFullyIndentedBlocks" : "DamienPollet 2/1/2012 16:13",
 		"testJustWhitespace" : "DamienPollet 1/31/2012 20:57",
 		"testLine" : "DamienPollet 1/31/2012 18:10",
 		"testSeveralBlocks" : "DamienPollet 1/31/2012 19:58",
