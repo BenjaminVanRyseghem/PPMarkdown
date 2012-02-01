@@ -1,3 +1,3 @@
 grammar
 block
-	^ line separatedBy: newline
+	^ indent , (line separatedBy: newline) flatten

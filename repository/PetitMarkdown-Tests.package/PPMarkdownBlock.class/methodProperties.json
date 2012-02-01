@@ -1,11 +1,11 @@
 {
 	"class" : {
-		"with:" : "DamienPollet 1/31/2012 17:47" },
+		"indented:with:" : "DamienPollet 2/1/2012 19:14",
+		"with:" : "DamienPollet 2/1/2012 19:15" },
 	"instance" : {
 		"append:" : "DamienPollet 2/1/2012 15:03",
 		"asMarkdownBlockDocument" : "DamienPollet 2/1/2012 15:15",
 		"indent" : "DamienPollet 1/31/2012 17:48",
-		"initialize" : "DamienPollet 1/31/2012 17:54",
 		"isList" : "DamienPollet 1/31/2012 17:55",
 		"isQuote" : "DamienPollet 1/31/2012 17:56",
-		"setContent:" : "DamienPollet 1/31/2012 17:47" } }
+		"setIndent:content:" : "DamienPollet 2/1/2012 19:15" } }

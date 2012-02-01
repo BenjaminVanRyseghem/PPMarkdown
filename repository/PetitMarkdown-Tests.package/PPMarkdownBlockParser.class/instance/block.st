@@ -1,3 +1,3 @@
 grammar
 block
-	^ super block flatten ==> [:nodes | PPMarkdownBlock with: nodes]
+	^ super block ==> [:nodes | PPMarkdownBlock indented: nodes first size with: nodes second ]

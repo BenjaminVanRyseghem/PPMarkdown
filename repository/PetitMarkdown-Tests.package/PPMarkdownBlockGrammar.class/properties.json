@@ -13,7 +13,8 @@
 		"blankLine",
 		"horizontalWhitespace",
 		"whitespace",
-		"blocks" ],
+		"blocks",
+		"indent" ],
 	"name" : "PPMarkdownBlockGrammar",
 	"pools" : [
 		 ],

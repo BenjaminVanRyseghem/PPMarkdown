@@ -1,3 +1,3 @@
 instance creation
 with: aString 
-	^ self new setContent: aString
+	^ self indented: 0 with: aString

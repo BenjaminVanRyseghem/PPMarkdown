@@ -1,3 +1,3 @@
 grammar
 document
-	^ blocks optional trim
+	^ blocks optional trim: blankLine
