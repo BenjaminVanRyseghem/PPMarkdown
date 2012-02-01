@@ -1,0 +1,3 @@
+accessing
+isEmpty
+	^ blocks isEmpty

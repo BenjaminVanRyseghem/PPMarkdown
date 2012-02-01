@@ -6,16 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"block",
-		"document",
-		"line",
-		"newline",
-		"blankLine",
-		"horizontalWhitespace",
-		"whitespace",
 		"blocks" ],
-	"name" : "PPMarkdownBlockGrammar",
+	"name" : "PPMarkdownBlockDocument",
 	"pools" : [
 		 ],
-	"super" : "PPCompositeParser",
+	"super" : "Object",
 	"type" : "normal" }

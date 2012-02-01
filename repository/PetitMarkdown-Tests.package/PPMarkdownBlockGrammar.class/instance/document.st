@@ -1,3 +1,3 @@
 grammar
 document
-	^ (block separatedByOmitting: newline, blankLine plus) optional trim
+	^ blocks optional trim
