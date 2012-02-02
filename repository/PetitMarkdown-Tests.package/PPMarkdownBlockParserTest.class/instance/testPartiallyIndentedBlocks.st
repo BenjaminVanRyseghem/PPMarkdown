@@ -1,6 +1,6 @@
 tests
-testFullyIndentedBlocks
-	super testFullyIndentedBlocks.
+testPartiallyIndentedBlocks
+	super testPartiallyIndentedBlocks.
 	self assert: result size equals: 3.
 
 	self assert: result blocks first indent equals: 1.
