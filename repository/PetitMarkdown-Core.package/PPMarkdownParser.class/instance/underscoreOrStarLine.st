@@ -1,4 +1,4 @@
-as yet unclassified
+grammar-secondary
 underscoreOrStarLine
 	^ super underscoreOrStarLine ==> [ :nodes|
 		self halt.

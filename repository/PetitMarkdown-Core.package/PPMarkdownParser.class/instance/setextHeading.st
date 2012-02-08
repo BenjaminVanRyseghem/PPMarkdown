@@ -1,4 +1,4 @@
-as yet unclassified
+grammar-secondary
 setextHeading
 	^ super setextHeading ==> [ :nodes | |titleInlines last level|
 		titleInlines := self mergeInlines: nodes first.

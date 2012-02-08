@@ -1,4 +1,4 @@
-as yet unclassified
+grammar-secondary
 atxHeading
 	^ super atxHeading ==> [ :nodes | |titleInlines last|
 		titleInlines := self mergeInlines: nodes third.
