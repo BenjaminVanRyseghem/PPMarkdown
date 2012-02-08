@@ -10,7 +10,9 @@
 		"indent",
 		"quote",
 		"lineContent",
-		"newline" ],
+		"newline",
+		"document",
+		"blankLine" ],
 	"name" : "PPMarkdownLineGrammar",
 	"pools" : [
 		 ],

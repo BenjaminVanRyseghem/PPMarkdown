@@ -1,3 +1,3 @@
 accessing
 start
-	^ line end
+	^ document end

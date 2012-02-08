@@ -1,3 +1,3 @@
 token
 lineContent
-	^ newline not, #any asParser star
+	^ (newline not, #any asParser) star

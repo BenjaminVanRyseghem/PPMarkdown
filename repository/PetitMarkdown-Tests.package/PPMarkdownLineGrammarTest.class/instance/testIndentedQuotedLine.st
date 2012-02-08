@@ -1,3 +1,3 @@
-tests
+tests-single lines
 testIndentedQuotedLine
-	self parse: '    > >     hello'
+	self parse: '    > >     hello' rule: #line
