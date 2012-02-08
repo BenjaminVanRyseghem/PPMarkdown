@@ -1,4 +1,4 @@
 initialization
-prefixes: anArray content: aString 
-	prefixes := anArray.
+prefixes: anOrderedCollection content: aString 
+	prefixes := anOrderedCollection.
 	content := aString

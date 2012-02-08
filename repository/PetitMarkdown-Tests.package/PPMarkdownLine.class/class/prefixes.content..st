@@ -1,3 +1,5 @@
 instance creation
-prefixes: anArray content: aString 
-	^ self new prefixes: anArray content: aString
+prefixes: anSequenceableCollection content: aString 
+	^ self new
+		prefixes: anSequenceableCollection asOrderedCollection
+		content: aString
