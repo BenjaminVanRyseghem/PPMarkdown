@@ -1,1 +1,0 @@
-A PPMarkdownBlockDocument represents a sequence of PPMarkdownBlocks, and needs to be further analyzed to obtain a full document tree.

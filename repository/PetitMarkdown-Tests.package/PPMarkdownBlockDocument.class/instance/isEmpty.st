@@ -1,3 +1,0 @@
-accessing
-isEmpty
-	^ blocks isEmpty

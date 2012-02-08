@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"parserClass" : "DamienPollet 2/8/2012 18:31",
+		"testBasicLine" : "DamienPollet 2/8/2012 18:33",
+		"testMixedIndentedLine" : "DamienPollet 2/8/2012 19:21",
+		"testQuotedLine" : "DamienPollet 2/8/2012 19:00",
+		"testSpaceIndentedLine" : "DamienPollet 2/8/2012 18:58",
+		"testTabIndentedLine" : "DamienPollet 2/8/2012 18:59" } }

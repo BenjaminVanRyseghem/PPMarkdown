@@ -1,0 +1,18 @@
+{
+	"category" : "PetitMarkdown-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"line",
+		"indent",
+		"quote",
+		"lineContent",
+		"newline" ],
+	"name" : "PPMarkdownLineGrammar",
+	"pools" : [
+		 ],
+	"super" : "PPCompositeParser",
+	"type" : "normal" }

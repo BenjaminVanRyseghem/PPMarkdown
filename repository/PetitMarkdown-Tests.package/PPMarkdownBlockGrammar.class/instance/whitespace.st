@@ -1,3 +1,0 @@
-token
-whitespace
-	^ horizontalWhitespace / newline

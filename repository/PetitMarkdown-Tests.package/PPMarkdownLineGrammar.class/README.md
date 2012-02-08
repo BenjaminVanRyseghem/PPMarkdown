@@ -1,0 +1,1 @@
+A PPMarkdownLineGrammar recognizes the linewise syntax of Markdown, i.e. single lines preceded by indents or quote marks.

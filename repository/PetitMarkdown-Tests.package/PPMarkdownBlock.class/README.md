@@ -1,1 +1,0 @@
-A PPMarkdownBlock represents a visual block in the markdown syntax; it serves as a preliminary parsing step, to abstract from the indentation and line semantics.
