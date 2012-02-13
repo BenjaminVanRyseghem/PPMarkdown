@@ -1,4 +1,4 @@
-tests
+tests-single lines
 testSpaceIndentedLine
 	super testSpaceIndentedLine.
 	

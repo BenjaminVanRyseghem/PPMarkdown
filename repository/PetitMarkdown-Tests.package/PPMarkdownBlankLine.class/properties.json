@@ -1,0 +1,14 @@
+{
+	"category" : "PetitMarkdown-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "PPMarkdownBlankLine",
+	"pools" : [
+		 ],
+	"super" : "PPMarkdownLine",
+	"type" : "normal" }

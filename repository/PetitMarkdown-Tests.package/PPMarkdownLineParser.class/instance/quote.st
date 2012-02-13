@@ -1,3 +1,3 @@
 token
 quote
-	^ super quote answer: #quote
+	^ super quote token

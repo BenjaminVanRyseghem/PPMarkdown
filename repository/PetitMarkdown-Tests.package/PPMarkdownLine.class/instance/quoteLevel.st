@@ -1,3 +1,3 @@
 accessing
 quoteLevel
-	^ self levelOf: #quote
+	^ 0

@@ -1,3 +1,3 @@
 testing
 isPrefixed
-	^ prefixes notEmpty
+	^ false

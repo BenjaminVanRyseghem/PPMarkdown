@@ -1,4 +1,3 @@
 grammar
 document
-	^ line / blankLine
-		delimitedBy: newline
+	^ line delimitedBy: newline

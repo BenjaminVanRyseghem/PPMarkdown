@@ -1,1 +1,2 @@
-A PPMarkdownLine represents a single line of markdown input text, with indents and other prefixes recognized from the actual text content.
+A PPMarkdownLine represents one line of input markup, according to the kind of prefix it has.
+PPMarkdownLine instances get fused into blocks and proper document elements in a further analysis pass.

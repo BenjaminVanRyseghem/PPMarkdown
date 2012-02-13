@@ -1,3 +1,6 @@
 grammar
 line
-	^ (indent / quote) star, lineContent
+	^ quoteLine
+	/ indentLine
+	/ blankLine
+	/ textLine

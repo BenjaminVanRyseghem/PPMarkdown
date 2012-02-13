@@ -1,4 +1,4 @@
-tests
+tests-single lines
 testQuotedLine
 	super testQuotedLine.
 	

@@ -1,3 +1,3 @@
 accessing
 indentLevel
-	^ self levelOf: #indent
+	^ 0

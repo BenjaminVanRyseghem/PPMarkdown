@@ -1,0 +1,1 @@
+A PPMarkdownQuoteLine represents lines starting with the blockquote mark.

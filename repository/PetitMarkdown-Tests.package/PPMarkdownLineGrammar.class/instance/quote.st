@@ -1,3 +1,3 @@
 token
 quote
-	^ $> asParser, Character space asParser
+	^ $> asParser, Character space asParser optional

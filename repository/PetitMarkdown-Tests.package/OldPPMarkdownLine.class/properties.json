@@ -1,0 +1,15 @@
+{
+	"category" : "PetitMarkdown-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"prefixes",
+		"content" ],
+	"name" : "OldPPMarkdownLine",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

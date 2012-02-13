@@ -1,3 +1,3 @@
-token
+grammar
 blankLine
-	^ #blank asParser star
+	^ (#blank asParser starGreedy: endOfLine) token
