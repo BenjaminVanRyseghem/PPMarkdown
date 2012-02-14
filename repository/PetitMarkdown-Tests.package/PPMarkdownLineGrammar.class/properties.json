@@ -15,7 +15,8 @@
 		"indent",
 		"quote",
 		"newline",
-		"endOfLine" ],
+		"endOfLine",
+		"lines" ],
 	"name" : "PPMarkdownLineGrammar",
 	"pools" : [
 		 ],

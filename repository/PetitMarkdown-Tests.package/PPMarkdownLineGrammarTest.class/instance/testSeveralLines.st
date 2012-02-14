@@ -1,13 +1,5 @@
 tests-multiple lines
 testSeveralLines
-	self parse: '
-foo
-bar
-
-  
-    baz
-qux
-
-> meh
-
-end'
+	self
+		parse: self simple
+		rule: #lines

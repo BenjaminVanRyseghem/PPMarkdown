@@ -1,3 +1,3 @@
 grammar
 document
-	^ line delimitedBy: newline
+	^ lines

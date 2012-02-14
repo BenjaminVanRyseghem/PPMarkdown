@@ -1,0 +1,14 @@
+{
+	"category" : "PetitMarkdown-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"blocks" ],
+	"name" : "PPMarkdownDocument",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

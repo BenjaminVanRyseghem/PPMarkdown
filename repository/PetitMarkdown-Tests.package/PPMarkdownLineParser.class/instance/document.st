@@ -1,3 +1,3 @@
 grammar
 document
-	^ super document oddNodes
+	^ super document ==> [ :nodes | PPMarkdownDocument lines: nodes ]
