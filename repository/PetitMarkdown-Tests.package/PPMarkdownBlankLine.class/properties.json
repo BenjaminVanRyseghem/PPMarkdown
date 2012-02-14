@@ -10,5 +10,5 @@
 	"name" : "PPMarkdownBlankLine",
 	"pools" : [
 		 ],
-	"super" : "PPMarkdownLine",
+	"super" : "PPMarkdownTextLine",
 	"type" : "normal" }
