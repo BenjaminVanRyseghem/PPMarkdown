@@ -1,3 +1,3 @@
 grammar
 textLine
-	^ #any asParser starGreedy: endOfLine
+	^ #any asParser starLazy: endOfLine

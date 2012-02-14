@@ -1,3 +1,3 @@
 token
 endOfLine
-	^ newline and / nil asParser end
+	^ newline / nil asParser end
