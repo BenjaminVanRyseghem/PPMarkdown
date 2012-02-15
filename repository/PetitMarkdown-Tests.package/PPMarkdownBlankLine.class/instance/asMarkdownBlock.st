@@ -1,3 +1,0 @@
-converting
-asMarkdownBlock
-	^ PPMarkdownNullBlock new

@@ -1,7 +1,9 @@
 {
 	"class" : {
-		"lines:" : "DamienPollet 2/14/2012 15:15" },
+		"lines:" : "DamienPollet 2/15/2012 16:11" },
 	"instance" : {
 		"appendBlock:" : "DamienPollet 2/14/2012 16:01",
-		"initialize" : "DamienPollet 2/14/2012 16:02",
-		"initializeWithLines:" : "DamienPollet 2/14/2012 15:57" } }
+		"appendLines:" : "DamienPollet 2/15/2012 16:31",
+		"closeParagraph:" : "DamienPollet 2/15/2012 18:31",
+		"initialize" : "DamienPollet 2/15/2012 16:11",
+		"replace:with:" : "DamienPollet 2/15/2012 17:09" } }

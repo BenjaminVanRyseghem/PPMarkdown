@@ -2,4 +2,6 @@
 	"class" : {
 		 },
 	"instance" : {
-		"appendLine:" : "DamienPollet 2/14/2012 15:58" } }
+		"appendBlankLine:in:" : "DamienPollet 2/15/2012 16:46",
+		"appendIndentLine:in:" : "DamienPollet 2/15/2012 18:34",
+		"appendTextLine:in:" : "DamienPollet 2/15/2012 17:00" } }
