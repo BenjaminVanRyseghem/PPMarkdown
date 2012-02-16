@@ -1,4 +1,4 @@
-as yet unclassified
+tests-multiple lines
 testSimpleDocument
 	super testSimpleDocument.
-	result halt
+	self assert: result size equals: 4

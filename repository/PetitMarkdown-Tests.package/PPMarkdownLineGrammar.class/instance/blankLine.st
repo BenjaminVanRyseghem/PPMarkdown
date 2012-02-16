@@ -1,3 +1,3 @@
 grammar
 blankLine
-	^ (#blank asParser starLazy: endOfLine) token
+	^ nonIndent, endOfLine and

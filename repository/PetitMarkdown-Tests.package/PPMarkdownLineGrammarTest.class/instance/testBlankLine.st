@@ -1,3 +1,3 @@
 tests-single lines
 testBlankLine
-	self parse: '    	' rule: #blankLine
+	self parse: '   ' rule: #blankLine

@@ -1,3 +1,3 @@
 document building
-closeParagraph: aParagraph 
+closeVerbatim: node
 	self newBlock
