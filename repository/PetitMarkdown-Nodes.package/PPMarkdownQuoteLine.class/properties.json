@@ -7,8 +7,8 @@
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		 ],
-	"name" : "PPMarkdownBlockNode",
+	"name" : "PPMarkdownQuoteLine",
 	"pools" : [
 		 ],
-	"super" : "PPMarkdownNode",
+	"super" : "PPMarkdownCompositeLine",
 	"type" : "normal" }

@@ -1,0 +1,1 @@
+A PPMarkdownBlankLine represents a single blank line in the markdown source.

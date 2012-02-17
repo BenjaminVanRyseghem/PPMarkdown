@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		 ],
-	"name" : "PPMarkdownBlockNode",
+		"blocks" ],
+	"name" : "PPMarkdownDocument",
 	"pools" : [
 		 ],
-	"super" : "PPMarkdownNode",
+	"super" : "Object",
 	"type" : "normal" }
