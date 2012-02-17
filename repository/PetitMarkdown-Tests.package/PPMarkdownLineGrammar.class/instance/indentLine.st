@@ -1,3 +1,0 @@
-grammar
-indentLine
-	^ indent, line

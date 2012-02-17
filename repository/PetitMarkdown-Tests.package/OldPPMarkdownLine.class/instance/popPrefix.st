@@ -1,3 +1,0 @@
-accessing
-popPrefix
-	prefixes removeFirst

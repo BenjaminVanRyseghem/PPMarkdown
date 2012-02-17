@@ -1,3 +1,0 @@
-accessing
-indentLevel
-	^ 0

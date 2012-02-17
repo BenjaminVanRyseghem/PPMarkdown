@@ -1,3 +1,0 @@
-accessing
-quoteLevel
-	^ 0

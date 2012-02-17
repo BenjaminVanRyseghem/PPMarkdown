@@ -1,1 +1,0 @@
-A PPMarkdownLine represents a single line of markdown input text, with indents and other prefixes recognized from the actual text content.

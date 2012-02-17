@@ -1,1 +1,0 @@
-A PPMarkdownCompositeLine is an abstract superclass for lines that have a prefix and an inner line of a simpler type.

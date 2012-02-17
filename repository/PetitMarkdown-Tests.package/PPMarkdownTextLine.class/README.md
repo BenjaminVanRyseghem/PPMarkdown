@@ -1,1 +1,0 @@
-A PPMarkdownTextLine contains only text, with inline markup.
