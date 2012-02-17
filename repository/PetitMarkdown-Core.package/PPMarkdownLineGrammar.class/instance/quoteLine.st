@@ -1,0 +1,3 @@
+grammar
+quoteLine
+	^ quote, line
