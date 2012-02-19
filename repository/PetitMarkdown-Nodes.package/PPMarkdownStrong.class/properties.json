@@ -10,5 +10,5 @@
 	"name" : "PPMarkdownStrong",
 	"pools" : [
 		 ],
-	"super" : "PPMarkdownSpanNode",
+	"super" : "PPMarkdownInlineNode",
 	"type" : "normal" }

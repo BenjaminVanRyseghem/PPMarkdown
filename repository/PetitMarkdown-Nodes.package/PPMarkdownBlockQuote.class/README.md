@@ -1,0 +1,1 @@
+A PPMarkdownBlockQuote is a citation block; any other block-level node can be nested in it.

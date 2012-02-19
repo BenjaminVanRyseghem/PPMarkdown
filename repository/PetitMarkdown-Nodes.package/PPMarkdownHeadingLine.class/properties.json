@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"text" ],
-	"name" : "PPMarkdownSpanNode",
+		"level" ],
+	"name" : "PPMarkdownHeadingLine",
 	"pools" : [
 		 ],
-	"super" : "PPMarkdownNode",
+	"super" : "PPMarkdownTextLine",
 	"type" : "normal" }

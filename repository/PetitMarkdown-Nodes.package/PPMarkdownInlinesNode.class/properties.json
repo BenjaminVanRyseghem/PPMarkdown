@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"level" ],
-	"name" : "PPMarkdownHeading",
+		"contents" ],
+	"name" : "PPMarkdownInlinesNode",
 	"pools" : [
 		 ],
-	"super" : "PPMarkdownInlinesNode",
+	"super" : "PPMarkdownBlockNode",
 	"type" : "normal" }

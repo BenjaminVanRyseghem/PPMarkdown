@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "<historical>",
 	"instvars" : [
-		"items" ],
+		 ],
 	"name" : "PPMarkdownList",
 	"pools" : [
 		 ],
-	"super" : "PPMarkdownBlockNode",
+	"super" : "PPMarkdownCompositeNode",
 	"type" : "normal" }

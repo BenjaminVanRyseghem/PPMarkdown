@@ -10,5 +10,5 @@
 	"name" : "PPMarkdownCode",
 	"pools" : [
 		 ],
-	"super" : "PPMarkdownSpanNode",
+	"super" : "PPMarkdownInlineNode",
 	"type" : "normal" }

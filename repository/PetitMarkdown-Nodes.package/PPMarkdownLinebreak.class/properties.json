@@ -10,5 +10,5 @@
 	"name" : "PPMarkdownLinebreak",
 	"pools" : [
 		 ],
-	"super" : "PPMarkdownSpanNode",
+	"super" : "PPMarkdownInlineNode",
 	"type" : "normal" }
