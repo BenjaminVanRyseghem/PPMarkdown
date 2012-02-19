@@ -1,3 +1,3 @@
 grammar
 blankLine
-	^ super blankLine flatten ==> [:token | PPMarkdownBlankLine with: token]
+	^ super blankLine ==> [ :string | PPMarkdownBlankLine with: string]

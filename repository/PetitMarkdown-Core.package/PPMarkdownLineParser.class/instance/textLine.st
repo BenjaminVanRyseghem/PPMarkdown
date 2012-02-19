@@ -1,3 +1,3 @@
 grammar
 textLine
-	^ super textLine flatten ==> [:string | PPMarkdownTextLine with: string]
+	^ super textLine ==> [ :string | PPMarkdownTextLine with: string]

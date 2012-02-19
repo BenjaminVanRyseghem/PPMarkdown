@@ -1,3 +1,5 @@
 token
 quote
-	^ $> asParser, Character space asParser optional
+	^ nonIndent,
+		($> asParser,
+		Character space asParser optional) token

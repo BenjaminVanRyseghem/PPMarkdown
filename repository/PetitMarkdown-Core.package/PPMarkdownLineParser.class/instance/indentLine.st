@@ -1,3 +1,3 @@
 grammar
 indentLine
-	^ super indentLine ==> [:nodes | PPMarkdownIndentLine with: nodes second]
+	^ super indentLine ==> [ :nodes | PPMarkdownIndentLine with: nodes second]

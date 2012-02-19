@@ -1,3 +1,3 @@
 grammar
 textLine
-	^ #any asParser starLazy: endOfLine
+	^ (#any asParser starLazy: endOfLine) flatten

@@ -1,3 +1,3 @@
 grammar
 blankLine
-	^ nonIndent, endOfLine and
+	^ (nonIndent, endOfLine and) flatten
