@@ -1,5 +1,6 @@
 document building
 appendIndentLine: line in: parentNode 
-	parentNode
+ 	self becomeForward: (PPMarkdownVerbatim new text: line content).
+	"parentNode
 		replace: self
-		with: (PPMarkdownVerbatim new text: line content)
+		with: (PPMarkdownVerbatim new text: line content)"

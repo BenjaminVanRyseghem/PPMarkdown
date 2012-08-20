@@ -1,7 +1,8 @@
 {
 	"class" : {
-		 },
+		"inlines:" : "CamilloBruni 8/11/2012 13:09" },
 	"instance" : {
-		"contents" : "DamienPollet 2/17/2012 17:51",
 		"finishUp" : "DamienPollet 2/17/2012 18:25",
-		"initializeWithContent:" : "DamienPollet 2/17/2012 18:33" } }
+		"initializeWithContent:" : "DamienPollet 2/17/2012 18:33",
+		"inlines" : "CamilloBruni 8/11/2012 13:09",
+		"inlines:" : "CamilloBruni 8/11/2012 13:09" } }

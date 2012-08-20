@@ -1,3 +1,3 @@
 initialization
 initialize
-	children := OrderedCollection with: PPMarkdownNullBlock new
+	children := OrderedCollection new
