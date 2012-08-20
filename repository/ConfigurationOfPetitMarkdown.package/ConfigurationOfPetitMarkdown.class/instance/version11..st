@@ -4,12 +4,10 @@ version11: spec
 
 	spec for: #'common' do: [
 		spec blessing: #'development'.
-		spec description: 'Start again, parsing linewise
-Moved classes to their correct packages
-WIP ATX headings'.
-		spec author: 'DamienPollet'.
-		spec timestamp: '2/19/2012 21:45'.
+		spec description: 'made more tests pass'.
+		spec author: 'CamilloBruni'.
+		spec timestamp: '8/20/2012 17:48'.
 		spec 
-			package: 'PetitMarkdown-Core' with: 'PetitMarkdown-Core-DamienPollet.12';
-			package: 'PetitMarkdown-Nodes' with: 'PetitMarkdown-Nodes-DamienPollet.8';
-			package: 'PetitMarkdown-Tests' with: 'PetitMarkdown-Tests-DamienPollet.21'. ].
+			package: 'PetitMarkdown-Core' with: 'PetitMarkdown-Core-CamilloBruni.13';
+			package: 'PetitMarkdown-Nodes' with: 'PetitMarkdown-Nodes-CamilloBruni.9';
+			package: 'PetitMarkdown-Tests' with: 'PetitMarkdown-Tests-CamilloBruni.22'. ].
