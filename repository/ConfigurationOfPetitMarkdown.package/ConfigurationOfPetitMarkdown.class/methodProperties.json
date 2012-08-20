@@ -18,10 +18,10 @@
 		"validate" : "CamilloBruni 1/24/2012 16:32" },
 	"instance" : {
 		"baseline01:" : "CamilloBruni 1/24/2012 17:24",
-		"development:" : "CamilloBruni 1/27/2012 17:55",
+		"development:" : "CamilloBruni 8/20/2012 17:23",
 		"project" : "CamilloBruni 1/24/2012 16:32",
 		"project:" : "CamilloBruni 1/24/2012 16:32",
 		"stable:" : "CamilloBruni 1/27/2012 17:27",
-		"version01:" : "CamilloBruni 1/27/2012 17:29",
-		"version02:" : "DamienPollet 2/19/2012 21:45",
+		"version01:" : "CamilloBruni 8/20/2012 17:25",
+		"version11:" : "CamilloBruni 8/20/2012 17:23",
 		"versionDoesNotExistError:" : "CamilloBruni 1/24/2012 16:32" } }
