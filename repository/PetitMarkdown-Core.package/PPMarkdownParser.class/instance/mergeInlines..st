@@ -7,7 +7,7 @@ mergeInlines: nodes
 	
 	elements := nodes collect: [:each| 
 		(each first isNil and: [each second isArray not])
-			ifTrue: [ each second]
+			ifTrue: [ each second ]
 			ifFalse: [ 
 				break := each first.
 				(break isKindOf: PPMarkdownLinebreak)
