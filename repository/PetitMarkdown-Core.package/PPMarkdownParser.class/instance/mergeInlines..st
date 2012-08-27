@@ -1,4 +1,4 @@
-as yet unclassified
+convenience
 mergeInlines: nodes
 	
 	| elements inlineList break|

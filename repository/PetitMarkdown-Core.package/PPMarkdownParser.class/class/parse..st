@@ -1,3 +1,3 @@
-as yet unclassified
+parsing
 parse: aString
 	^ self new parse: aString
