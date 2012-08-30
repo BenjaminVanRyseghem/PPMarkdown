@@ -8,6 +8,6 @@ version11: spec
 		spec author: 'CamilloBruni'.
 		spec timestamp: '8/20/2012 17:48'.
 		spec 
-			package: 'PetitMarkdown-Core' with: 'PetitMarkdown-Core-CamilloBruni.13';
+			package: 'PetitMarkdown-Core' with: 'PetitMarkdown-Core-CamilloBruni.15';
 			package: 'PetitMarkdown-Nodes' with: 'PetitMarkdown-Nodes-CamilloBruni.9';
 			package: 'PetitMarkdown-Tests' with: 'PetitMarkdown-Tests-CamilloBruni.22'. ].
