@@ -65,7 +65,8 @@
 		"text",
 		"verbatim",
 		"url",
-		"listItemTight" ],
+		"listItemTight",
+		"explicitImage" ],
 	"name" : "PPMarkdownGrammar",
 	"pools" : [
 		 ],

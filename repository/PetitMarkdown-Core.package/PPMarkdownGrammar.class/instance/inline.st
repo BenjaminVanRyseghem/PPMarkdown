@@ -1,7 +1,7 @@
 grammar
 inline
 	^ endline 
-		/ strong / emphasis "/ image" / link / url "
+		/ strong / emphasis / explicitImage / link / url "
 		/ noteReference / inlineNote"
 		/ code "/ rawHtml"
 		/ text
