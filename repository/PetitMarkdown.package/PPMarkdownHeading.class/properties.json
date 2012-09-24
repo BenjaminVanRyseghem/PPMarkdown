@@ -4,12 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "<historical>",
 	"instvars" : [
-		"level",
-		"title" ],
+		"level" ],
 	"name" : "PPMarkdownHeading",
 	"pools" : [
 		 ],
-	"super" : "PPMarkdownBlockNode",
+	"super" : "PPMarkdownInlinesNode",
 	"type" : "normal" }

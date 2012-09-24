@@ -1,0 +1,1 @@
+PPMarkdownCompositeNode is the superclass for block-level nodes that contain other block-level nodes.

@@ -1,3 +1,0 @@
-grammar
-header
-	^ headerAtx / headerSetext

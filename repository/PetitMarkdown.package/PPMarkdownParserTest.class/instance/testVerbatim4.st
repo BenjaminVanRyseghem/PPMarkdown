@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testVerbatim4
 	super testVerbatim4.
 	self assert: result isVerbatim.

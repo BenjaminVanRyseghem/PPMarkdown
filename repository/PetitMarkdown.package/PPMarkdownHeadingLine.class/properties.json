@@ -1,0 +1,14 @@
+{
+	"category" : "PetitMarkdown-Nodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"level" ],
+	"name" : "PPMarkdownHeadingLine",
+	"pools" : [
+		 ],
+	"super" : "PPMarkdownTextLine",
+	"type" : "normal" }

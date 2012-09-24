@@ -30,7 +30,6 @@
 		"line",
 		"linebreak",
 		"link",
-		"listBlock",
 		"listBlockLine",
 		"listContinuationBlock",
 		"listItem",
@@ -66,7 +65,8 @@
 		"text",
 		"verbatim",
 		"url",
-		"listItemTight" ],
+		"listItemTight",
+		"explicitImage" ],
 	"name" : "PPMarkdownGrammar",
 	"pools" : [
 		 ],

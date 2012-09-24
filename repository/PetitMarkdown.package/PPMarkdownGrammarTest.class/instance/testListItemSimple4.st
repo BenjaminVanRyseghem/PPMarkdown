@@ -3,6 +3,5 @@ testListItemSimple4
 	self
 		parse: '42.  plop
 coin
-    pan
-'
+    pan'
 		rule: #listItem

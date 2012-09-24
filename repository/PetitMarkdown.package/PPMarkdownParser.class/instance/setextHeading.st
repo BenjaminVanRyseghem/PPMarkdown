@@ -1,4 +1,4 @@
-as yet unclassified
+grammar-secondary
 setextHeading
 	^ super setextHeading ==> [ :nodes | |titleInlines last level|
 		titleInlines := self mergeInlines: nodes first.
@@ -7,5 +7,5 @@ setextHeading
 			ifFalse: [ 2 ].
 		PPMarkdownHeading new
 			level: level;
-			title: titleInlines;
+			inlines: titleInlines;
 			yourself]

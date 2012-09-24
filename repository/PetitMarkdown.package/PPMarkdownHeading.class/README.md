@@ -1,0 +1,1 @@
+A PPMarkdownHeading is a sectioning title. Instvar level matches the HTML numbering.

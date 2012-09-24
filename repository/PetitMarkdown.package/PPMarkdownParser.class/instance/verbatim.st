@@ -1,4 +1,4 @@
-as yet unclassified
+grammar
 verbatim
 	^ super verbatim ==> [ :nodes | |codeText|
 		codeText := String streamContents: [ :s|

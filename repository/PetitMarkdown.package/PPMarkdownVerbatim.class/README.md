@@ -1,0 +1,1 @@
+A PPMarkdownVerbatim represents a block of text to be displayed as-is; contents is just plain text.

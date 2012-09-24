@@ -1,3 +1,3 @@
 grammar-block
 paragraph
-	^ nonIndentSpace , inlines , blankLine plus
+	^ nonIndentSpace , inlines , (blankLine plus / document end)

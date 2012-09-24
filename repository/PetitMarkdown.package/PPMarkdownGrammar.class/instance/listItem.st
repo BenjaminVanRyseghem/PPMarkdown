@@ -1,5 +1,5 @@
 grammar
 listItem
-	^ (enumerator / bullet)
-		, listBlock
+	^ (bullet / enumerator)
+		, line
 		, listContinuationBlock star

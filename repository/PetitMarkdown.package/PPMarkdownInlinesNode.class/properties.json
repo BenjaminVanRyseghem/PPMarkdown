@@ -1,0 +1,14 @@
+{
+	"category" : "PetitMarkdown-Nodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"inlines" ],
+	"name" : "PPMarkdownInlinesNode",
+	"pools" : [
+		 ],
+	"super" : "PPMarkdownBlockNode",
+	"type" : "normal" }

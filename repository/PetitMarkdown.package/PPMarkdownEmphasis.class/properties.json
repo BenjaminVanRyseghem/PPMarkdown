@@ -10,5 +10,5 @@
 	"name" : "PPMarkdownEmphasis",
 	"pools" : [
 		 ],
-	"super" : "PPMarkdownBlockNode",
+	"super" : "PPMarkdownInlineNode",
 	"type" : "normal" }

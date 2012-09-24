@@ -1,0 +1,27 @@
+{
+	"category" : "PetitMarkdown-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"document",
+		"line",
+		"blankLine",
+		"indentLine",
+		"quoteLine",
+		"textLine",
+		"atxHeadingLine",
+		"indent",
+		"quote",
+		"newline",
+		"endOfLine",
+		"lines",
+		"nonIndent",
+		"atxStart" ],
+	"name" : "PPMarkdownLineGrammar",
+	"pools" : [
+		 ],
+	"super" : "PPCompositeParser",
+	"type" : "normal" }

@@ -1,3 +1,3 @@
-as yet unclassified
+token
 linebreak
 	^ super linebreak ==> [:nodes| PPMarkdownLinebreak new]

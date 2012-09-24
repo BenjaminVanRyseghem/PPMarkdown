@@ -4,10 +4,9 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "<historical>",
 	"instvars" : [
-		"label",
-		"nodes" ],
+		 ],
 	"name" : "PPMarkdownRule",
 	"pools" : [
 		 ],

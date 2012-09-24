@@ -1,0 +1,1 @@
+A PPMarkdownParagraph is a basic paragraph of text, with inline formatting.

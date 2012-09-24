@@ -2,8 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
+		"initialize" : "CamilloBruni 8/20/2012 17:41",
 		"isList" : "DamienPollet 12/12/2010 19:58",
 		"isOrdered" : "DamienPollet 12/12/2010 19:59",
-		"items" : "CamilloBruni 3/8/2011 12:04",
-		"items:" : "CamilloBruni 2/25/2011 12:36",
-		"size" : "DamienPollet 12/12/2010 19:58" } }
+		"items" : "CamilloBruni 8/11/2012 12:23",
+		"items:" : "CamilloBruni 8/11/2012 12:23",
+		"size" : "CamilloBruni 8/11/2012 12:23" } }

@@ -1,0 +1,1 @@
+PPMarkdownInlinesNode is the superclass for block-level nodes that contain inline markup.
