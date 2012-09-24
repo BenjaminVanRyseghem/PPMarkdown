@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testListItemSimple1
 	super testListItemSimple1.
 	self assert: result isItem.

@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testHeadingSetext1
 	super testHeadingSetext1.
 	self assert: result isBlock.

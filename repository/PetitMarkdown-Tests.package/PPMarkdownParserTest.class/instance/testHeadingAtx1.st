@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testHeadingAtx1
 	super testHeadingAtx1.
 	self assert: result isBlock.
