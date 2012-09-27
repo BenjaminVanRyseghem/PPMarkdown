@@ -1,5 +1,5 @@
 grammar
 linkDefinition
-	^ label, $: asParser, spaces ,
-		(($< asParser, source, $> asParser) / source) , spaces ,
-		linkDefinitionTitle optional
+	^ label, $: asParser, spaces,
+		(angleBracketSource | parenthesisSource | source), 
+		spaces, linkDefinitionTitle optional

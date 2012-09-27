@@ -1,7 +1,10 @@
 grammar
 explicitLink
-	^ label , spacedNewline ,
-		$( asParser , spaces ,
+	^ label , spacedNewline , (
+		
+		'()' asParser |
+		
+		($( asParser , spaces ,
 		source , spaces ,
 		title optional , spaces ,
-		$) asParser
+		$) asParser))

@@ -1,0 +1,3 @@
+grammar
+angleBracketSource
+	^ self delimitedSource: '<>'

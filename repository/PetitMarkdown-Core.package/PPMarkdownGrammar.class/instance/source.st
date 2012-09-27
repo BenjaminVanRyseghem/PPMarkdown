@@ -1,5 +1,3 @@
 grammar
 source
-	^  ('<>()' asArray asChoiceParser negate ,
-			(space / $) asParser) negate plus
-		) flatten trimBlanks
+	^ ($( asParser not , $) asParser not , $> asParser not , nonSpaceCharacter) plus flatten trimBlanks.

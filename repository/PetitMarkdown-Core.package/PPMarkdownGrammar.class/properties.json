@@ -68,7 +68,9 @@
 		"listItemTight",
 		"explicitImage",
 		"linkDefinition",
-		"linkDefinitionTitle" ],
+		"linkDefinitionTitle",
+		"angleBracketSource",
+		"parenthesisSource" ],
 	"name" : "PPMarkdownGrammar",
 	"pools" : [
 		 ],

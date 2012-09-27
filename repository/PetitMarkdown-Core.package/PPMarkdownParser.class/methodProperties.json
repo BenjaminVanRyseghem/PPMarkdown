@@ -2,6 +2,7 @@
 	"class" : {
 		"parse:" : "CamilloBruni 8/27/2012 09:39" },
 	"instance" : {
+		"angleBracketSource" : "CamilloBruni 9/28/2012 00:22",
 		"atxHeading" : "CamilloBruni 8/11/2012 13:11",
 		"block" : "CamilloBruni 1/30/2012 18:29",
 		"bullet" : "DamienPollet 12/12/2010 20:27",
@@ -12,12 +13,12 @@
 		"enumerator" : "DamienPollet 12/12/2010 20:29",
 		"escapedCharacter" : "CamilloBruni 5/10/2011 09:46",
 		"explicitImage" : "SebastianNozzi 9/24/2012 19:04",
-		"explicitLink" : "CamilloBruni 9/27/2012 22:51",
+		"explicitLink" : "CamilloBruni 9/28/2012 00:36",
 		"horizontalRule" : "CamilloBruni 5/10/2011 09:49",
 		"inlines" : "CamilloBruni 1/30/2012 18:47",
 		"label" : "CamilloBruni 9/27/2012 22:31",
 		"linebreak" : "CamilloBruni 2/28/2011 13:59",
-		"linkDefinition" : "CamilloBruni 9/27/2012 23:00",
+		"linkDefinition" : "CamilloBruni 9/28/2012 00:22",
 		"linkDefinitionTitle" : "CamilloBruni 9/27/2012 22:33",
 		"listBlockLine" : "CamilloBruni 1/30/2012 17:51",
 		"listContinuationBlock" : "CamilloBruni 1/30/2012 18:00",
