@@ -2,6 +2,6 @@ tests
 testInlineLinkJustUrl
 	super testInlineLinkJustUrl.
 	self assert: result isLink.
-	self assert: result label = ''.
-	self assert: result url = '/url/'.
-	self assert: result text = 'URL'.
+	self assert: result label equals: ''.
+	self assert: result url equals: '/url/'.
+	self assert: result text equals: 'URL'.

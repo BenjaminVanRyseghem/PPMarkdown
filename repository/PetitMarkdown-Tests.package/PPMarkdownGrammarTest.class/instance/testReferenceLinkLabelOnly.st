@@ -1,11 +1,11 @@
 testing-markdowntest
 testReferenceLinkLabelOnly
-	self parse: '[foo]' rule: #link.
+	self parse: '[foo]' rule: #referenceLink.
 	self
 		parse: '[line
 break]'
-		rule: #link.
+		rule: #referenceLink.
 	self
 		parse: '[space 
 break]'
-		rule: #link.
+		rule: #referenceLink.
