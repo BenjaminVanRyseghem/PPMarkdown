@@ -70,7 +70,9 @@
 		"linkDefinition",
 		"linkDefinitionTitle",
 		"angleBracketSource",
-		"parenthesisSource" ],
+		"parenthesisSource",
+		"autoLink",
+		"labelInline" ],
 	"name" : "PPMarkdownGrammar",
 	"pools" : [
 		 ],

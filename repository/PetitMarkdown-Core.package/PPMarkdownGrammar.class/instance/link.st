@@ -1,3 +1,3 @@
 grammar
 link
-	^ explicitLink / linkDefinition / referenceLink "/ autoLink"
+	^ explicitLink / linkDefinition / referenceLink / autoLink
