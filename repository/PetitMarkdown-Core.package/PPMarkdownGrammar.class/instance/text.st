@@ -1,3 +1,3 @@
 token
 text
-	^ (withUnderscores / entity / escapedCharacter / symbol / space) flatten
+	^ withUnderscores / entity / escapedCharacter / symbol / (space flatten)
