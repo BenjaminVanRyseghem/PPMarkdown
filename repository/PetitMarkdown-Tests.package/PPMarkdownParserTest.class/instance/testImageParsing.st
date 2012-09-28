@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testImageParsing
 	| paragraphWithImage firstInlineOfParagraph |
 	self parse: '![Environment](/img/greenfoot_visual.png)'.

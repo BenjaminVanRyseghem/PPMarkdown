@@ -1,5 +1,5 @@
-as yet unclassified
+tests
 testAsteriskIsEscaped
-    self parse: 'this is \*escaped\*'.
+    self parse: '\*escaped\*'.
     self assert: result first isBlock.
-    self assert: (result first inlines first) equals: 'this *is* escaped'.
+    self assert: result first inlines first text equals: '*escaped*'.
