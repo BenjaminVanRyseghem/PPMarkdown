@@ -16,4 +16,9 @@ baseline01: spec
 				spec requires: #('PetitMarkdown-Nodes' 'PetitParser'). ];
 			package: 'PetitMarkdown-Tests' with: [
 				spec requires: #('PetitMarkdown-Core' 'PetitParser'). ];
-			package: 'PetitMarkdown-Nodes' ]
+			package: 'PetitMarkdown-Nodes'.
+			
+		spec 
+			group: 'default' with: #('Core');
+			group: 'Core' with: #('PetitMarkdown-Core');
+			group: 'Test' with: #('Core' 'PetitMarkdown-Tests')]
