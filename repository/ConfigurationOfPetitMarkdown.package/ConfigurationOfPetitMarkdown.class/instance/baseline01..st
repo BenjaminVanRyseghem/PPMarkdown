@@ -4,7 +4,7 @@ baseline01: spec
 	
 	spec for: #common do: [
 		spec blessing: #baseline.
-		spec repository: 'http://ss3.gemstone.com/ss/petitmarkdown'.
+		spec repository: 'http://smalltalkhub.com/mc/dh83/petitmarkdown/main'.
 		
 		spec project: 'PetitParser' with: [
 			spec
