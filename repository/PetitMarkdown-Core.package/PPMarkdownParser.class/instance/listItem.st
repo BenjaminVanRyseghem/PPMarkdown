@@ -9,5 +9,5 @@ listItem
 			textNodes add: spaceText; addAll: each ].
 		
 		 PPMarkdownListItem new
-			label: nodes first value;
+			label: nodes first parsedValue;
 			addAll: (self mergeInlines: textNodes) ]

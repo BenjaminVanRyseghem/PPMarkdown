@@ -8,5 +8,5 @@ listItemTight
 			textNodes add: spaceText; addAll: each second].
 		
 		 PPMarkdownListItem new
-			label: nodes first value;
+			label: nodes first parsedValue;
 			addAll: (self mergeInlines: textNodes) ]
