@@ -4,10 +4,11 @@ version12: spec
 
 	spec for: #'common' do: [
 		spec blessing: #'development'.
-		spec description: 'fixed reported issues mainly link and escape sequences'.
-		spec author: 'CamilloBruni'.
-		spec timestamp: '2012-09-28 01:26'.
+		spec description: 'fixed reported issues mainly link and escape sequences
+- update configuration'.
+		spec author: 'DamienPollet'.
+		spec timestamp: '3/5/2013 17:21'.
 		spec 
-			package: 'PetitMarkdown-Core' with: 'PetitMarkdown-Core-CamilloBruni.19';
-			package: 'PetitMarkdown-Nodes' with: 'PetitMarkdown-Nodes-CamilloBruni.11';
-			package: 'PetitMarkdown-Tests' with: 'PetitMarkdown-Tests-CamilloBruni.25'. ].
+			package: 'PetitMarkdown-Core' with: 'PetitMarkdown-Core-CamilloBruni.22';
+			package: 'PetitMarkdown-Nodes' with: 'PetitMarkdown-Nodes-CamilloBruni.13';
+			package: 'PetitMarkdown-Tests' with: 'PetitMarkdown-Tests-CamilloBruni.28'. ].
