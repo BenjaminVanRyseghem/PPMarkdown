@@ -19,6 +19,6 @@ baseline01: spec
 			package: 'PetitMarkdown-Nodes'.
 			
 		spec 
-			group: 'default' with: #('Core');
+			group: 'default' with: #('Core' 'Tests');
 			group: 'Core' with: #('PetitMarkdown-Core');
-			group: 'Test' with: #('Core' 'PetitMarkdown-Tests')]
+			group: 'Tests' with: #('PetitMarkdown-Tests')]
