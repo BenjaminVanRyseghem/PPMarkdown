@@ -1,3 +1,3 @@
 grammar-secondary
 enumerator
-	^ super enumerator ==> [ :nodes | nodes third ]
+	^ super enumerator ==> [ :nodes |  nodes second ]
