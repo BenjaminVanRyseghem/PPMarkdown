@@ -9,6 +9,6 @@ version12: spec
 		spec author: 'DamienPollet'.
 		spec timestamp: '3/5/2013 17:21'.
 		spec 
-			package: 'PetitMarkdown-Core' with: 'PetitMarkdown-Core-CamilloBruni.22';
+			package: 'PetitMarkdown-Core' with: 'PetitMarkdown-Core-CamilloBruni.23';
 			package: 'PetitMarkdown-Nodes' with: 'PetitMarkdown-Nodes-CamilloBruni.13';
-			package: 'PetitMarkdown-Tests' with: 'PetitMarkdown-Tests-CamilloBruni.28'. ].
+			package: 'PetitMarkdown-Tests' with: 'PetitMarkdown-Tests-CamilloBruni.29'. ].
