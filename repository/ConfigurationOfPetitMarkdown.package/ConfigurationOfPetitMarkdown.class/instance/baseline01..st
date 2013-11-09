@@ -10,7 +10,7 @@ baseline01: spec
 			spec
 				className: 'ConfigurationOfPetitParser';
 				version: 'minimal';
-				repository: 'http://source.lukas-renggli.ch/petit' ].
+				repository: 'http://smalltalkhub.com/mc/Moose/PetitParser/main/' ].
 		spec 
 			package: 'PetitMarkdown-Core' with: [
 				spec requires: #('PetitMarkdown-Nodes' 'PetitParser'). ];
