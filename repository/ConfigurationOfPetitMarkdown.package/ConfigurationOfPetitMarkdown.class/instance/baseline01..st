@@ -9,7 +9,7 @@ baseline01: spec
 		spec project: 'PetitParser' with: [
 			spec
 				className: 'ConfigurationOfPetitParser';
-				version: 'minimal';
+				"version: 'minimal';"
 				repository: 'http://smalltalkhub.com/mc/Moose/PetitParser/main/' ].
 		spec 
 			package: 'PetitMarkdown-Core' with: [
